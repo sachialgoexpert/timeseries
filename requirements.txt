@@ -1,0 +1,12 @@
+statsmodels
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+scikit-image
+scikit-learn
+yfinance
+ipykernel
+statsmodels
