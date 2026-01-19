@@ -11,3 +11,5 @@ yfinance
 ipykernel
 statsmodels
 arch
+pandas-datareader
+torch-geometric
